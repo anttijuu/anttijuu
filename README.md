@@ -5,8 +5,8 @@ Hi there! My name is Antti Juustila. Currently, I work as a Lecturer teaching va
 * Programming 101 with C language, acting as an assistant teacher
 * Computing Devices and Data Networks 101, acting as a responsible teacher
 * Data Structures and Algorithms with Java, an advanced programming course acting as a responsible teacher
-* GUI design and programming, an advanced programming course acting as an assistant teacher
-* Bachelor level software project supervisor, supervising three projects in 2023.
+* GUI design and programming, an advanced programming course acting as an assisting teacher
+* Bachelor level software project supervisor, supervising three student projects in 2023.
 
 I work at the [University of Oulu](https://www.oulu.fi/english), Finland in the Study Program of Information Processing Science. My research unit [INTERACT](https://github.com/interact-rg) focuses on understanding and supporting participatory design, user-centered design, value co-creation, user driven innovation and human interaction in IT (information technology based services in divergent everyday life contexts.
 
@@ -15,7 +15,7 @@ I have a long history in teaching but also in software development. I began my c
 * In a company i cofounded, I did mainly training courses for progrqamming professionals, including 2-4 day courses on basic, intermediary and advanced C++ programming (e.g. Design patterns with C++), licensed Symbian OS development courses (while it lasted...) and courses on Java programming as well as software design and UML. Some years ago I left this part of the career behind me.
 * academic career at the University of Oulu, in various teaching positions and also in nationally and EU funded research projects. Here I was mainly responsible for and participating in developing different technological tools and infrastructures for the projects.
 
-Software development has remained an important part of my academing career. I love creating things, whether they are [analog and visual](https://juustila-art.com) or [digital and untangible](https://www.juustila.com/antti). 
+Software development has remained an important part of my academing career. I love creating things, whether they are [analog and visual](https://juustila-art.com) or [digital and intangible](https://www.juustila.com/antti). 
 
 Below you can find some of the software things I have lately worked with. Mostly these are either Swift/SwiftUI or C++ projects, but many are also Java projects since Java is the selected language in many courses in our study program.
 
